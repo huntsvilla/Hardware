@@ -1,0 +1,35 @@
+body {
+	background-color:#ffffcc;
+}
+	
+
+
+
+
+h1 {
+	color:darkblue;
+	text-align:center;
+	background-color:#ffffcc;
+}
+p, ol {
+	line-height:1.5em;
+	font-family:Verdana;
+	text-indent:30px;
+}
+
+h2{
+	color:darkblue;
+	text-align:center;
+	background-color:#ffffcc;
+}
+
+div {
+	width:600px;
+	margin-left:auto;
+	margin-right:auto; 
+	margin-bottom: 50px;
+	background-color: f7c8df;
+	padding: 30px;
+	
+	
+}
